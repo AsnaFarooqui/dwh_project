@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.log
+.env
+*.sqlite
+*.db
+*.csv
+*.xlsx
+*.gz
+output_csv/
+credentials.json
+
+
