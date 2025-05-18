@@ -7,7 +7,9 @@ __pycache__/
 *.csv
 *.xlsx
 *.gz
-output_csv/
+env
+venv
+snowflake
 credentials.json
 
 
