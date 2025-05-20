@@ -7,7 +7,11 @@ __pycache__/
 *.csv
 *.xlsx
 *.gz
-output_csv/
+env
+venv
+snowflake
+project_env
+airflow_env
 credentials.json
 
 
